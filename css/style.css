@@ -1,0 +1,308 @@
+*{
+    font-family: 'open sans'sans-serif;
+    margin: 0;
+    padding: 0; 
+
+    /*margin-bottom: 30px;*/
+    width: 100%;
+}
+.three{
+    display: flex;
+}
+.nav-bar{
+    background-color: rgb(5, 56, 80);
+    text-align: center;
+    padding-top: 40px; 
+    display: flex;
+}
+.nav-bar a{
+    text-decoration: none;
+    background-color: rgb(5, 56, 80);
+    color: white;  
+    
+}  
+.life{
+    display: flex;
+}
+header{
+    display: flex;
+    background-color: rgb(5, 56, 80);
+}
+.two1{
+    display: flex;
+}
+.two2{
+    display: flex;
+}
+.logo{
+    padding: 5px;  
+    background-color: rgb(5, 56, 80);
+    width: 100px;
+    margin: 10px 10px;
+}
+.logo img{
+    border-radius: 10px;
+}
+.banner{
+    display: block;
+    height: auto;
+    margin:  0 auto;
+    margin-bottom: 20px; 
+}
+.full-image{
+    width: 100%;
+    height: 500px;
+    border-radius: 10px;
+    object-fit: cover;
+    justify-content: center; 
+    margin-top: 20px;
+}
+.welcome{
+    text-align: center;
+    font-style: italic;
+    margin-top: 30px;
+}
+.below-water{
+    text-align: center;
+    font-family: 'open sans',sans-serif;
+    font-style: italic;
+    font-size: 20px;
+}
+.cover{
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'open sans',sans-serif;
+    font-style: italic;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.fish{
+    width: 90%;
+    height: 500px;
+    border-radius: 10px;
+    object-fit: cover;
+    justify-content: center; 
+    margin-left: 25px
+}
+.Aqua-life{
+    text-align: center;
+    font-family: 'open sans',sans-serif;
+    font-style: italic;
+    font-size: 20px;
+    margin-top:150px;
+    margin-bottom: 20px;
+}
+.turtle{
+    width: 90%;
+    height: 500px;
+    border-radius: 10px;
+    object-fit: cover;
+    justify-content: center; 
+    margin-left: 25px;
+    margin-top: 30px;
+}
+.Aquatic{
+    text-align: center;
+    font-family: 'open sans',sans-serif;
+    font-style: italic;
+    font-size: 20px;
+    margin-top:150px;
+    margin-bottom: 20px;
+}
+.plastic-pollution{
+    width: 90%;
+    height: 500px;
+    border-radius: 10px;
+    object-fit: cover;
+    justify-content: center; 
+    margin-left: 25px;
+    margin-top: 30px;
+}
+.life-in-danger{
+    text-align: center;
+    font-family: 'open sans',sans-serif;
+    font-style: italic;
+    font-size: 20px;
+    margin-top: 150px;
+}
+.call{
+     text-align: center;
+    font-family: 'open sans',sans-serif;
+    font-style: italic;
+    font-size: 20px;
+    margin-top:20px;
+}
+.content p{
+    text-align: center;    
+}
+.content h1{
+    text-align: center;
+} 
+.story{
+     text-align: center;
+     margin-top: 10px; 
+}
+.working{
+    width: 40%;
+    justify-content: center; 
+    margin-left: 25px;
+    border-radius: 10px;
+}
+.mission{
+      text-align: justify; 
+}
+
+.result{
+     width: 40%;
+    justify-content: center; 
+    margin-left: 25px;
+    border-radius: 10px;
+}
+    
+.vision{
+    text-align: center;   
+}
+.us{
+    width: 40%;
+    justify-content: center; 
+    margin-left: 25px;
+    border-radius: 10px;
+}
+.team{
+     text-align: center;  
+}
+.goal{
+    width: 60%;
+    object-fit: cover;
+    justify-content: center; 
+    margin-left: 15px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+.committment h1 {
+     text-align: justify;
+     width:50%; 
+}
+.four1{
+    display: flex;
+}
+.four1 h1{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.four1 p{
+    margin-left: 30px;
+}
+.service{
+    text-align: justify;  
+    margin-top: 40px;
+}
+.reach{
+     margin-bottom: 4px;
+     margin-top: 20px;
+}
+.name{
+    margin-bottom: 10px;
+    padding: 15px;
+    width: 50%;
+}
+.email{
+    margin-bottom: 10px;
+    padding: 15px;
+    width: 50%;
+}
+.message{
+    margin-bottom: 10px;
+    padding: 15px;
+    width: 50%;
+}
+.feedback{
+    margin-bottom: 10px;
+     padding: 15px;
+     width: 50%;   
+}
+.button{
+    font: 18px;
+    text-align: center;
+    width: 130px;
+    padding: 15px 15px 15px 15px;
+    border-radius: 10px;
+    background-color: rgb(72, 175, 51);
+    color: white;
+    margin-top: 10px;
+}
+S
+form input{
+    width: 10%;
+}
+.icons ion-icon{
+    width: 5%;
+}
+.form{
+    text-align: center;
+    margin-top: 30px;
+}
+.form input{
+     margin-top: 7px;
+}
+.contact{
+    text-align: center;
+    margin-top: 30px;
+}
+.contact p{
+    margin-top: 10px;
+}
+.reach{
+      text-align: center;
+}
+footer{
+    text-align: center;
+    margin-top: 20px;
+    background-color: rgb(5, 56, 80);
+    color:  white;
+}
+/* MOBILE RESPONSIVE*/
+@media(max-width: 768px){
+    header{
+        flex-direction: column;
+        text-align: center;
+    }
+    .logo img{
+        height: 60px;
+    }
+    .nav-bar{
+        flex-direction: row;
+        gap: 0.1rem;
+        width: 100%;
+    }
+    .two1, .two, .three,{
+        flex-direction: column;
+    }
+    .four1 img{
+        height: 250px;
+        margin-top: 20px;
+    }
+    .col-4{
+        width: 100%;
+        padding: 10px;
+    }
+    .content, .story, .reach, .contact, .call{
+        padding: 1.5rem 3%;
+    }
+    h1, h2, h3 {
+        font-size: 1.3rem;
+    }
+    p{
+        font-size: 0.95rem;
+    }
+}
+
+
+
+
+
+    
+
+
+
+
